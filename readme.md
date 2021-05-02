@@ -1,4 +1,4 @@
-# Three.js Journey
+# Webpack/Threejs starter
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
